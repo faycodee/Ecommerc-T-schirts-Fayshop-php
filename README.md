@@ -14,5 +14,3 @@ Backend: PHP
 Database: MySQL
 This project enhanced my web development skills with a focus on e-commerce functionality. Some parts were lost due to delays, but I plan to restore them in the future.
 
-
-https://github.com/user-attachments/assets/4ceab16d-e2ef-4fc4-aa0f-31c3152a41c2
